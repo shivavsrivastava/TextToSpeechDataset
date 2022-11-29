@@ -10,7 +10,7 @@ This repository details how I created a text to speech dataset using Audacity (a
 Before you can record the voice, you need a good script. The script should contain sentences that are short, long but no duplicates.
 * It is useful to create a script for a voice model. Print out this script or keep it handy.
 * I followed this script from microsoft: [English-USA](https://github.com/Azure-Samples/Cognitive-Speech-TTS/blob/master/CustomVoice/script/English%20(United%20States)_en-US/0000000001_0300000050_General.txt)
-* Recording equipment: I used Logitech Blue Yeti microphone.[](https://www.amazon.com/gp/product/B00N1YPXW2/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+* Recording equipment: I used Logitech Blue Yeti microphone.[Amazon](https://www.amazon.com/gp/product/B00N1YPXW2/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 * Recording requirements:
   * Clear and well pronounced
   * Natural speed

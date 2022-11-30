@@ -53,6 +53,7 @@ Before you can record the voice, you need a good script. The script should conta
 * dataset formatting:
   * Sample Rate: If your dataset has a very high bit-rate, that might cause slow data-load time and consequently slow training. It is better to reduce the sample-rate of your dataset to around 16000-22050.
   * Sample format: 16 bit, PCM
+  * Single audio channel
   * SNR > 35 dB
   * Peak volume levels	-3 dB to -6 dB
   * Environment noise: The level of noise at start of the wave before speaking < -70 dB
